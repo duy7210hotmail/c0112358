@@ -1,7 +1,7 @@
 #include <iostream>
 
 void getUserInput(int64_t& num1, int64_t& num2, char& mOperator);
-auto result(int64_t& num1, int64_t num2, char& mOperator);
+double result(int64_t& num1, int64_t num2, char& mOperator);
 int main() {
 
   int64_t num1 {};
